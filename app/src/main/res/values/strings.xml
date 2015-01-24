@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pitch Counter</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_help">Help</string>
+    <string name="action_about">About</string>
+    <string name="button_incr">Increment</string>
+    <string name="button_decr">Decrement</string>
+    <string name="title_activity_pitcher_list">Pitcher List</string>
+    <string name="title_activity_pitcher">Pitcher Info</string>
+    <string name="action_new">New</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_accept">OK</string>
+    <string name="action_discard">Remove</string>
+    <string name="title_activity_add_pitcher">Add Pitcher</string>
+    <string name="title_activity_edit_pitcher">Edit Pitcher</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_about">About</string>
+    <string name="help_content">When you start Pitch Counter, one pitcher (named <i>Pitcher 1</i> by default) has already been added for you.\n\nClick on this line and you will go to that pitcher\'s information screen. Click the + button to increment the pitch counter. (You can click - if you get ahead of yourself.)\n\nThe information screen will show the pitcher\'s name, the pitch count for this pitcher, and the time of the last pitch.\n\nClick the Edit button in the Action Bar at the top of the screen to change the  pitcher\'s name. There is also a Delete button there.\n\nIf you back to the main screen, you can add another pitcher by clicking the Add button in the Action Bar.\n
+    </string>
+    <string name="about_content">About Pitch Counter\nVersion 1.0\nCopyright © Westglenn Software, Inc.\nhttp://www.westglenn.com\n</string>
+    <string name="settings_content">There are no settings to configure.</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
